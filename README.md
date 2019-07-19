@@ -8,8 +8,8 @@ This Ruby app takes a text file where each line describes a hit on a website's p
 
 ## Running the app
 
-Type the command below to run the application.
+Run the application with this command
 `bin/app webserver.log`
 
-To run tests, type the following:
+To run tests, type the following
 `rspec -f d`
