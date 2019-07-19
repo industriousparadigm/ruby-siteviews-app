@@ -8,6 +8,8 @@ This Ruby app takes a text file where each line describes a hit on a website's p
 
 ## Running the app
 
+Run `bundle install` if you don't have the RSpec Ruby gem.
+
 Run the application with this command
 `bin/app webserver.log`
 
