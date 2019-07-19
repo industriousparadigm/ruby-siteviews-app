@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/app"
+
+filename = ARGV[0]
+app = App.new(filename)
+
+app.run
